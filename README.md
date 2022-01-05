@@ -1,4 +1,4 @@
-# newproject.js
+# newproject.ts
 This is a script for helping you automate creating new projects, currently supports
 1. Typescript projects
 2. Node Js 
